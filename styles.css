@@ -1,0 +1,25 @@
+h1:hover {
+    font-family: 'Lobster', cursive;
+    color: pink;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+    
+}
+
+p {
+    color: red;
+    font-family: 'Satisfy', cursive;
+    font-size: 27px;
+    text-align: center;
+}
+
+a {
+    text-align: center;
+    color: yellow;
+    font-size: 27px;
+    font-family: 'Norican', cursive;
+}
